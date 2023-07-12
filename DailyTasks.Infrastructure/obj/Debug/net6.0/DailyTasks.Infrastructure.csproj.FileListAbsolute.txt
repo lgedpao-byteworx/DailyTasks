@@ -1,0 +1,15 @@
+C:\DailyTasks\DailyTasks.Infrastructure\bin\Debug\net6.0\DailyTasks.Infrastructure.deps.json
+C:\DailyTasks\DailyTasks.Infrastructure\bin\Debug\net6.0\DailyTasks.Infrastructure.dll
+C:\DailyTasks\DailyTasks.Infrastructure\bin\Debug\net6.0\DailyTasks.Infrastructure.pdb
+C:\DailyTasks\DailyTasks.Infrastructure\bin\Debug\net6.0\DailyTasks.Domain.dll
+C:\DailyTasks\DailyTasks.Infrastructure\bin\Debug\net6.0\DailyTasks.Domain.pdb
+C:\DailyTasks\DailyTasks.Infrastructure\obj\Debug\net6.0\DailyTasks.Infrastructure.csproj.AssemblyReference.cache
+C:\DailyTasks\DailyTasks.Infrastructure\obj\Debug\net6.0\DailyTasks.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\DailyTasks\DailyTasks.Infrastructure\obj\Debug\net6.0\DailyTasks.Infrastructure.AssemblyInfoInputs.cache
+C:\DailyTasks\DailyTasks.Infrastructure\obj\Debug\net6.0\DailyTasks.Infrastructure.AssemblyInfo.cs
+C:\DailyTasks\DailyTasks.Infrastructure\obj\Debug\net6.0\DailyTasks.Infrastructure.csproj.CoreCompileInputs.cache
+C:\DailyTasks\DailyTasks.Infrastructure\obj\Debug\net6.0\DailyTasks.Infrastructure.csproj.CopyComplete
+C:\DailyTasks\DailyTasks.Infrastructure\obj\Debug\net6.0\DailyTasks.Infrastructure.dll
+C:\DailyTasks\DailyTasks.Infrastructure\obj\Debug\net6.0\refint\DailyTasks.Infrastructure.dll
+C:\DailyTasks\DailyTasks.Infrastructure\obj\Debug\net6.0\DailyTasks.Infrastructure.pdb
+C:\DailyTasks\DailyTasks.Infrastructure\obj\Debug\net6.0\ref\DailyTasks.Infrastructure.dll

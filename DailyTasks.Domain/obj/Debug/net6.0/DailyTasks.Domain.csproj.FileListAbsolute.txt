@@ -1,0 +1,12 @@
+C:\DailyTasks\DailyTasks.Domain\bin\Debug\net6.0\DailyTasks.Domain.deps.json
+C:\DailyTasks\DailyTasks.Domain\bin\Debug\net6.0\DailyTasks.Domain.dll
+C:\DailyTasks\DailyTasks.Domain\bin\Debug\net6.0\DailyTasks.Domain.pdb
+C:\DailyTasks\DailyTasks.Domain\obj\Debug\net6.0\DailyTasks.Domain.csproj.AssemblyReference.cache
+C:\DailyTasks\DailyTasks.Domain\obj\Debug\net6.0\DailyTasks.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\DailyTasks\DailyTasks.Domain\obj\Debug\net6.0\DailyTasks.Domain.AssemblyInfoInputs.cache
+C:\DailyTasks\DailyTasks.Domain\obj\Debug\net6.0\DailyTasks.Domain.AssemblyInfo.cs
+C:\DailyTasks\DailyTasks.Domain\obj\Debug\net6.0\DailyTasks.Domain.csproj.CoreCompileInputs.cache
+C:\DailyTasks\DailyTasks.Domain\obj\Debug\net6.0\DailyTasks.Domain.dll
+C:\DailyTasks\DailyTasks.Domain\obj\Debug\net6.0\refint\DailyTasks.Domain.dll
+C:\DailyTasks\DailyTasks.Domain\obj\Debug\net6.0\DailyTasks.Domain.pdb
+C:\DailyTasks\DailyTasks.Domain\obj\Debug\net6.0\ref\DailyTasks.Domain.dll

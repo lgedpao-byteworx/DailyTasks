@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "r7LccgaJKrSQpzLfdYcrAfeICaP7t0m3TbIqpGgrtiy/5aF3nEkPqTaDjPF5eCngBt8Ounuh3v+lQ/bNJDdltw==",
+  "success": true,
+  "projectFilePath": "C:\\DailyTasks\\DailyTasks.Infrastructure\\DailyTasks.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Glenn_DrTalk\\.nuget\\packages\\lambda2js.signed\\3.1.4\\lambda2js.signed.3.1.4.nupkg.sha512",
+    "C:\\Users\\Glenn_DrTalk\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\7.0.8\\microsoft.aspnetcore.jsonpatch.7.0.8.nupkg.sha512",
+    "C:\\Users\\Glenn_DrTalk\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
+    "C:\\Users\\Glenn_DrTalk\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Glenn_DrTalk\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Glenn_DrTalk\\.nuget\\packages\\nito.asyncex.coordination\\5.1.2\\nito.asyncex.coordination.5.1.2.nupkg.sha512",
+    "C:\\Users\\Glenn_DrTalk\\.nuget\\packages\\nito.asyncex.tasks\\5.1.2\\nito.asyncex.tasks.5.1.2.nupkg.sha512",
+    "C:\\Users\\Glenn_DrTalk\\.nuget\\packages\\nito.collections.deque\\1.1.1\\nito.collections.deque.1.1.1.nupkg.sha512",
+    "C:\\Users\\Glenn_DrTalk\\.nuget\\packages\\nito.disposables\\2.2.1\\nito.disposables.2.2.1.nupkg.sha512",
+    "C:\\Users\\Glenn_DrTalk\\.nuget\\packages\\ravendb.client\\5.4.107\\ravendb.client.5.4.107.nupkg.sha512",
+    "C:\\Users\\Glenn_DrTalk\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
